@@ -1,0 +1,2 @@
+DOMAIN = 'xtool_p3'
+DEFAULT_SCAN_INTERVAL = 10

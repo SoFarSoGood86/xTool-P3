@@ -1,0 +1,9 @@
+start_job:
+  name: Démarrer la découpe
+  description: Lance une tâche de découpe en cours dans la file d’attente.
+pause_job:
+  name: Mettre en pause
+  description: Met en pause la découpe en cours.
+stop_job:
+  name: Arrêter
+  description: Arrête immédiatement la découpe en cours.
