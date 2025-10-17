@@ -1,4 +1,4 @@
-<img width="2000" height="575" alt="xTool P3" src="https://github.com/user-attachments/assets/d4509657-fee1-4f48-93cf-479a61443ec7" />
+<img width="2814" height="878" alt="xTool-P3" src="https://github.com/user-attachments/assets/7103794f-5d3b-4146-a874-a25200e32cd7" />
 
 xTool P3 intégration for pour Home Assistant.
 
