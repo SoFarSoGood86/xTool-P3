@@ -4,9 +4,9 @@ xTool P3 intégration for pour Home Assistant.
 
 ## Features :
 
-- IP local device connexion
+- IP device connexion
 - Real-time statut (idle, printing, paused, error)
-- Commandes Start / Pause / Stop
+- Commands Start / Pause / Stop
 - Real-time température
 - Custom icon in HACS
 
@@ -28,7 +28,7 @@ Install via HACS
 ```yaml
 xtool_p3:
   host: 192.168.0.120
-  api_key: "your_api_key_if_possible"
+  api_key: "your_api_key"
   scan_interval: 10
 ```
 
