@@ -1,4 +1,6 @@
-# Intégration xTool P3 pour Home Assistant
+<img width="3083" height="884" alt="xTool P3" src="https://github.com/user-attachments/assets/d4509657-fee1-4f48-93cf-479a61443ec7" />
+
+# xTool P3 intégration for pour Home Assistant
 
 Cette intégration permet de contrôler une machine de découpe laser **xTool P3** directement depuis Home Assistant.
 
