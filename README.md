@@ -28,7 +28,7 @@ Install via HACS
 ```yaml
 xtool_p3:
   host: 192.168.0.120
-  api_key: "votre_cle_api_si_necessaire"
+  api_key: "your_api_key_if_possible"
   scan_interval: 10
 ```
 
