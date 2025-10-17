@@ -2,14 +2,15 @@
 
 xTool P3 intégration for pour Home Assistant.
 
-## Fonctionnalités :
-- Connexion à la machine via IP locale
-- Suivi de l’état (idle, printing, paused, error)
-- Commandes Start / Pause / Stop
-- Capteur température interne
-- Icône personnalisée dans HACS
+## Features :
 
-## Installation via HACS :
+- IP local device connexion
+- Real-time statut (idle, printing, paused, error)
+- Commandes Start / Pause / Stop
+- Real-time température
+- Custom icon in HACS
+
+## HACS installation :
 Ajouter le dépôt comme repository personnalisé : `https://github.com/SoFarSoGood86/xTool-P3`
 
 ## Configuration YAML (optionnelle) :
