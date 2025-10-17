@@ -10,8 +10,19 @@ xTool P3 intégration for pour Home Assistant.
 - Real-time température
 - Custom icon in HACS
 
-## HACS installation :
-Ajouter le dépôt comme repository personnalisé : `https://github.com/SoFarSoGood86/xTool-P3`
+## Installation :
+
+Install via HACS
+
+1. Navigate to HACS -> Integrations -> "+ Explore & Download Repos" Search for *xTool-P3*.
+2. Click on the result and select "Download this Repository with HACS".
+3. Refresh your browser (due to a known HA bug that may not update the integration list immediately).
+4. Go to "Settings" in the Home Assistant sidebar, then select "Devices and Services".
+5. Click the blue [+ Add Integration] button at the bottom right, search for "xTool-P3", and install it.  
+
+
+   [![Set up a new integration in Home Assistant](https://my.home-assistant.io/badges/config_flow_start.svg)(https://github.com/SoFarSoGood86/xTool-P3)
+
 
 ## Configuration YAML (optionnelle) :
 ```yaml
