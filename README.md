@@ -24,7 +24,7 @@ Install via HACS
 
 
 
-## Configuration YAML (optionnelle) :
+## YAML Configuration (optionnal) :
 ```yaml
 xtool_p3:
   host: 192.168.0.120
@@ -32,7 +32,7 @@ xtool_p3:
   scan_interval: 10
 ```
 
-## Services disponibles :
+## Available services :
 - `xtool_p3.start_job`
 - `xtool_p3.pause_job`
 - `xtool_p3.stop_job`
