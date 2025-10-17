@@ -1,6 +1,6 @@
 <img alt="502509645-d4509657-fee1-4f48-93cf-479a61443ec7" src="https://github.com/user-attachments/assets/d2a65667-f684-444f-960a-e4556185c2d5" />
 
-**xTool P3 intégration for pour Home Assistant.**
+## xTool P3 intégration for pour Home Assistant.
 
 ## Features :
 
