@@ -20,8 +20,8 @@ Install via HACS
 4. Go to "Settings" in the Home Assistant sidebar, then select "Devices and Services".
 5. Click the blue [+ Add Integration] button at the bottom right, search for "xTool-P3", and install it.  
 
+   [![Set up a new integration in Home Assistant](https://my.home-assistant.io/badges/config_flow_start.svg)](https://github.com/SoFarSoGood86/xTool-P3.git)
 
-   [![Set up a new integration in Home Assistant](https://my.home-assistant.io/badges/config_flow_start.svg)(https://github.com/SoFarSoGood86/xTool-P3)
 
 
 ## Configuration YAML (optionnelle) :
